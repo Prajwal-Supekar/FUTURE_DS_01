@@ -18,9 +18,6 @@ The goal is to create a clear and interactive dashboard to support business deci
 ## 📥 Dataset
 The dataset used for this project is included in the data/ folder.
 
-## 📈 Insights Summary
-(Add your final insights here once the dashboard is ready)
-
 ## 📎 Files Included
 - /data → Raw + cleaned data  
 - /dashboard → Dashboard file (.pbix or Excel)  
